@@ -46,7 +46,7 @@
 - Курсовой совместный проект на [Java](https://github.com/GreeceNut/JavaQaTeam)
 - Финальный проект по [автоматизированному тестированию](https://github.com/GreeceNut/QaDiploma)
 ### Тестовое задание для Vk
-- Тестирвоание [Википедии](https://github.com/GreeceNut/QaVk)
+- Тестирование [Википедии](https://github.com/GreeceNut/QaVk)
 ### Самостоятельное обучение
 - Решение [задач из codewars](https://github.com/GreeceNut/Kata.git) на Java 
 
