@@ -54,6 +54,8 @@
 - Финальный проект по [автоматизированному тестированию](https://github.com/GreeceNut/QaDiploma)
 ### Тестовое задание для Vk
 - Тестирование [Википедии](https://github.com/GreeceNut/QaVk)
+### Тестовое задание для Uningine
+- Нахождение дефектов в [Untitled Skeleton Game](https://drive.google.com/drive/folders/1YQhFwdZ1CnUelJvoRIIQPN9gkftILxPn?usp=drive_link) 
 ### Самостоятельное обучение
 - Решение [задач из codewars](https://github.com/GreeceNut/Kata.git) на Java 
 
