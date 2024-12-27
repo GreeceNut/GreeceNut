@@ -60,7 +60,7 @@
 - Решение [задач из codewars](https://github.com/GreeceNut/Kata.git) на Java
 - Отработка навыков составления чек-листов, тест-кейсов и баг репортов для мобильного приложения [Nextracker](https://drive.google.com/drive/folders/1ODxVUG7M0N3O0A0S01PFMgk4S5wtjkqg)
 - Отработка навыков состваления тест-кейсов для игры [FTL](https://docs.google.com/spreadsheets/d/1U3OOD5EOCWEVPsb3MJnSgig_ttzrp6dwX14TKYjyhEw/edit) 
-- Отркботка навыков составления тест-кейсов для игры Into the [Breach](https://docs.google.com/spreadsheets/d/1xjHXDryvez_6gKJqJ1zPvnSfk2KWa7XEQIAQJuExFM8/edit?gid=0#gid=0)
+- Отркботка навыков составления тест-кейсов для игры [Into the Breach](https://docs.google.com/spreadsheets/d/1xjHXDryvez_6gKJqJ1zPvnSfk2KWa7XEQIAQJuExFM8/edit?gid=0#gid=0)
 
 ### Обучение на курсах
 - Сертификат от Нетологии ["Ручное тестирование веб-приложений"](https://netology.ru/sharing/07c02972e3b6d5ee5360d7e342951b2a?utm_source=social&utm_campaign=certificate_lms )
