@@ -35,15 +35,13 @@
 -	Составление Проектной документации посредством использования State & Transition Diagramm
 
 ## Инструменты 
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain-wordmark.svg" title="Cucumber" alt="Cucumber" width="50" height="50"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docekr" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" title="DBeaver" alt="DBeaver" width="50" height="50"/>&nbsp;
- 
-
+![Selenium](https://github.com/user-attachments/assets/468ef9e2-8fb4-4e0e-bd16-e74948236938)
+![java](https://github.com/user-attachments/assets/ca9d9457-b703-442c-8e5a-356ed4897eaf)
+![github](https://github.com/user-attachments/assets/9868c7a8-aa41-4109-a783-32e2a84159aa)
+![git](https://github.com/user-attachments/assets/65400c4c-1c5b-4def-a153-8e8ff992996b)
+![docker](https://github.com/user-attachments/assets/fc8bb264-3605-4f15-8660-5e3f526ecaff)
+![DBeaver](https://github.com/user-attachments/assets/40ab8212-81ae-4ec7-8289-55faf4e24bca)
+![cucumber](https://github.com/user-attachments/assets/2f9e2146-b4cc-4cd0-9ffe-19e8b8bb8ba0)
 
 ## Профессиональный опыт
 08.2023 — настоящее время
