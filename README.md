@@ -1,10 +1,10 @@
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTdlZjkzOGh2N2Y3dW1lOGwydGVoejN0ZHozMzNsY2FxYnBlbmh6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="300"/>
+<div id="header" align="left">
+  <img src="https://github.com/user-attachments/assets/cd8846ff-d913-4b21-9f32-599ad578ea51" width="250"/>
+
 </div>
 
 ## ФИО
  Буренков Олег Германович
-
 ## Проживание
 - г. Калининград (-1 МСК)
 - Гражданство: РФ
