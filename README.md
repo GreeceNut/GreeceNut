@@ -32,7 +32,7 @@
 -	Проведение unit-тестирования
 -	Подготовка и проведение автоматизированных тестовых сценариев
 -	Подготовка отчёта о тестировании, заведение дефектов
--	Составление Проектной документации посредством использования State & Transition Diagramm
+-	Составление Проектной документации посредством использования State & Transition Diagram 
 
 ## Инструменты 
 ![Selenium](https://github.com/user-attachments/assets/468ef9e2-8fb4-4e0e-bd16-e74948236938)
@@ -42,9 +42,18 @@
 ![docker](https://github.com/user-attachments/assets/fc8bb264-3605-4f15-8660-5e3f526ecaff)
 ![DBeaver](https://github.com/user-attachments/assets/40ab8212-81ae-4ec7-8289-55faf4e24bca)
 ![cucumber](https://github.com/user-attachments/assets/2f9e2146-b4cc-4cd0-9ffe-19e8b8bb8ba0)
+<img width="156" height="156" alt="image" src="https://github.com/user-attachments/assets/b9aabd4d-fe7f-4bb8-9760-e35a3a94e583" />
+<img width="156" height="156" alt="image" src="https://github.com/user-attachments/assets/a87a2a5e-c87d-492c-92ae-2a82e3108ec3" />
+<img width="156" height="156" alt="image" src="https://github.com/user-attachments/assets/322432f4-18d6-422c-be19-885eb77b8cd5" />
+
+
 
 ## Профессиональный опыт
 08.2023 — настоящее время
+
+### Участие в программе VK testers
+Использование своих знаний для тестирования локальных приложений
+
 ### Учебные проекты в Нетологии
 направление «Программирование», курс [«Тестировщик ПО»](https://netology.ru/programs/qa) (программа курса по ссылке)
 - Проекты ручного [тестирования](https://drive.google.com/drive/folders/1jeBOcjpwGk3k7NzbWycpGxtXrcXYcT9m?usp=sharing)
@@ -57,13 +66,14 @@
 - Нахождение дефектов в [Untitled Skeleton Game](https://drive.google.com/drive/folders/1YQhFwdZ1CnUelJvoRIIQPN9gkftILxPn?usp=drive_link) 
 ### Самостоятельное обучение
 - Решение [задач из codewars](https://github.com/GreeceNut/Kata.git) на Java
-- Решение задач SQL из sql-ex.ru и освоение заний SQL из sql-tutorial.ru  
+- Решение задач SQL из sql-ex.ru и освоение заний SQL из sql-tutorial.ru
 - Отработка навыков составления чек-листов, тест-кейсов и баг репортов для мобильного приложения [Nextracker](https://drive.google.com/drive/folders/1ODxVUG7M0N3O0A0S01PFMgk4S5wtjkqg)
 - Отработка навыков состваления тест-кейсов для игры [FTL](https://docs.google.com/spreadsheets/d/1U3OOD5EOCWEVPsb3MJnSgig_ttzrp6dwX14TKYjyhEw/edit) 
 - Отработка навыков составления тест-кейсов для игры [Into the Breach](https://docs.google.com/spreadsheets/d/1xjHXDryvez_6gKJqJ1zPvnSfk2KWa7XEQIAQJuExFM8/edit?gid=0#gid=0)
 - Отработка навыков составления схем и переходов [State & Transition Diagram](https://drive.google.com/file/d/1jwk8qlVV6F_yd5HFDmfKNq3e4pBbKHwG/view?usp=drive_link) 
 
 ### Обучение на курсах
+- Изучение Python на курсе Stepik ["Программирование на Python"](https://stepik.org/course/67/syllabus) 
 - Сертификат от Нетологии ["Ручное тестирование веб-приложений"](https://netology.ru/sharing/07c02972e3b6d5ee5360d7e342951b2a?utm_source=social&utm_campaign=certificate_lms )
 - Сертификат от Нетологии ["Java для тестировощиков"](https://netology.ru/sharing/8cab4e5a133aa9b3df0fc50f157e749b?utm_source=social&utm_campaign=certificate_lms )
 - Сертификат от Нетологии ["Git — система контроля"](https://netology.ru/sharing/bfe723c4f431121909f51094c67bfdea?utm_source=social&utm_campaign=certificate_lms )
